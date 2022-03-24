@@ -8,11 +8,22 @@ It also wasn't fully accesible within the website so I made changes that make th
 1. Within [github](https://github.com/tellez215/INAKA), I made a new repository and copied the SSH key that it has made.
 2. Then went to gitbash and cloned the SSH key from the the repository made.
 3. Dragged content folder into the new repository folder.
-4. Went into gitbash and procedded to do a 'git status' to confirm that the files 
+4. Went into gitbash and procedded to do a 'git status' to confirm that the files were indeed there.
+5. Then did a 'git add .' to add and confirm into our system.
+6. Followed by a 'git commit -m' to add a messages with an update to push back.
+7. With a 'git push origin main' it lets the progress and upates as well as the messages we had put, get pushed back to github.
+
+
 ## Usuage
+
+
 
 ## Credits
 
+
+
 ## License
+
+
 
 ## Badges
