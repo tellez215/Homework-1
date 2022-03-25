@@ -15,15 +15,18 @@ It also wasn't fully accesible within the website so I made changes that make th
 
 
 ## Usuage
+#
+#
+![step](./Images/SSH.jpg)
 
 
 
 ## Credits
-
-
+- Readme guide (https://www.makeareadme.com/)
+- div to HTML tags guide (https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/)
+- CSS guide (https://www.w3schools.com/w3css/defaulT.asp)
 
 ## License
-
-
+[LICENSE](./LICENSE.md)
 
 ## Badges
