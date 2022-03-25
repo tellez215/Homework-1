@@ -2,7 +2,7 @@
 
 ## Description
 This is my project called INAKA. It was a project website with a couple errors and mistskes within the Index.html and CSS. 
-It also wasn't fully accesible within the website so I made changes that make the website more accesible by adding 'alts' and new 'id' tags within the Index.html.
+It also wasn't fully accesible within the website so I made changes that make the website more accesible by adding 'alts' and new 'id' tags within the Index.html. Had some problems within the 'style.css' which makes the website more visually appealing. 
 
 ## Installation
 1. Within [github](https://github.com/tellez215/INAKA), I made a new repository and copied the SSH key that it has made.
@@ -29,4 +29,4 @@ It also wasn't fully accesible within the website so I made changes that make th
 ## License
 [LICENSE](./LICENSE.md)
 
-## Badges
+
