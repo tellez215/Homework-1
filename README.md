@@ -16,9 +16,13 @@ It also wasn't fully accesible within the website so I made changes that make th
 ## Usuage
 #
 #
-![step](./Images/SSH.jpg)
-![step2]
+![step](./Images/SSH.jpg) <h2>-As shown above, copy the SSH key and clone on gitbash</h2>
+<br>
+<br>
 
+![step2](./Images/Screenshot%20(10)_LI.jpg) <h2>-Step by step git process to add files and push back to main</h2>
+<br>
+<br>
 
 
 ## Credits
