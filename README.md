@@ -13,11 +13,11 @@ It also wasn't fully accesible within the website so I made changes that make th
 6. Followed by a 'git commit -m' to add a messages with an update to push back.
 7. With a 'git push origin main' it lets the progress and upates as well as the messages we had put, get pushed back to github.
 
-
 ## Usuage
 #
 #
 ![step](./Images/SSH.jpg)
+![step2]
 
 
 
